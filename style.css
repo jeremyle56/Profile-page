@@ -256,7 +256,7 @@ img {
 }
 
 .games_left_block:hover {
-    background: url('/assets/overwatch.jpg');
+    background: url('assets/overwatch.jpg');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -267,7 +267,7 @@ img {
 }
 
 .games_right_block:hover {
-    background: url('/assets/vscode.png');
+    background: url('assets/vscode.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
