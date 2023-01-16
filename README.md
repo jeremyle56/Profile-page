@@ -4,7 +4,7 @@ Theme: Circles (did a haha funny and based it off color scheme / layout of: http
 Page located at: https://jeremyle56.github.io/profile-page/
 
 Noteable notes: 
-- PAGE IS REACTIVE! (I think)
+- PAGE IS REACTIVE!!!
 - Name in top left is a link
 - Purple inline words are links
 - Hover over games for banners
