@@ -1,6 +1,7 @@
-# Profile-page
+# profile-page
 
 Theme: Circles (did a haha funny and based it off color scheme / layout of: https://circles.csesoc.app/)
+
 Page located at: https://jeremyle56.github.io/profile-page/
 
 Noteable notes: 
