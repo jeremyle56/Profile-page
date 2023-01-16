@@ -151,9 +151,14 @@ img {
     width: 33.3%;
 }
 
-.about_middle_block p:not(.section_subtitle) {
+.about_middle_block p {
     font-size: 20px;
     font-weight: 400;
+}
+
+.about_middle_block strong {
+    color: rgba(179, 127, 235, 0.8);
+    font-weight: 600;
 }
 
 .stats {
