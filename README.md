@@ -1,12 +1,10 @@
 # profile-page
 
-Theme: Circles (did a haha funny and based it off color scheme / layout of: <a href="https://circles.csesoc.app/" target="_blank">https://circles.csesoc.app/</a>)
+Theme: Circles (did a haha funny and based it off color scheme / layout of: https://circles.csesoc.app/)
 
-Page located at: 
-<a href="https://jeremyle56.github.io/profile-page/" target="_blank">https://jeremyle56.github.io/profile-page/</a>
+Page located at: https://jeremyle56.github.io/profile-page/
 
-Gradient Version: 
-<a href="https://jeremyle56.github.io/profile-page/gradient" target="_blank">https://jeremyle56.github.io/profile-page/gradient</a>
+Gradient Version: https://jeremyle56.github.io/profile-page/gradient
 
 Noteable notes: 
 - PAGE IS REACTIVE!!!
