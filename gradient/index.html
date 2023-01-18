@@ -25,7 +25,6 @@
         <a href="#contact" class="contact_button"><button>Contact</button></a>
         </nav>
     </header>
-
     
     <!--------------------------- MAIN ---------------------------->
     <main>
@@ -45,11 +44,22 @@
                     <img src="assets/goku_vs_cooler.png" alt="goku_vs_cooler">
                 </div>
                 <p>Should be practicing leetcode instead of trying to be creative 💀</p>
+
+                <div id="quotes_scroll">
+                    <a href="#about">
+                       <img src="assets/mouse-alt.svg" alt="mouse" width="30">
+                       <span>Scroll down</span> 
+                       <img src="assets/arrow-circle-down.svg" alt="arrow_down" width="20">
+                    </a>
+                </div>
             </div>
         </section>
 
+        <br><br><br><br><br><br><br>
+
         <!--------------------------- ABOUT ---------------------------->
-        <section class="section dark_theme" id="about">
+        <div id="about"></div>
+        <section class="section">
             <h2 class="section_title">About Me</h2>
             <p class="section_subtitle">Basic Info</p>
             <div class="about_container">
@@ -76,7 +86,8 @@
         </section>
 
         <!--------------------------- STATS ---------------------------->
-        <section class="section stats" id="stats">
+        <div id="stats"></div>
+        <section class="section stats dark_theme">
             <h2 class="section_title">Stats</h2>
             <p class="section_subtitle">My ego is okay, I promise 😭</p>
             <div class="stats_list grid">
@@ -129,7 +140,7 @@
                         <span class="stats_percentage stats_motivation"></span>
                     </div>
                 </div>
-    
+
                 <div class="stats_data">
                     <div class="stats_title">
                         <h3 class="stats_name">Success</h3>
@@ -143,9 +154,10 @@
         </section>
 
         <!--------------------------- INTERESTS ---------------------------->
-        <section class="section dark_theme" id="interests">
-            <h2 class="section_title">Interests</h2>
-            <p class="section_subtitle">Things I like I guess?</p>
+        <div id="interests"></div>
+        <section class="section dark_theme">
+            <h2 class="section_title" id="interests_title">Interests</h2>
+            <p class="section_subtitle" id="interests_subtitle">Things I like I guess?</p>
             <div class="interests">
                 <div class="anime">
                     <img src="assets/pokemon.png" alt="pokemon" class="anime_left_block">
@@ -205,7 +217,8 @@
         </section>
 
         <!--------------------------- CONTACT ---------------------------->
-        <section class="section" id="contact">
+        <div id="contact"></div>
+        <section class="section">
             <h2 class="section_title">Contact</h2>
             <p class="section_subtitle">Connect with me!!!</p>
             <br>
