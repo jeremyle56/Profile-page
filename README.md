@@ -2,9 +2,11 @@
 
 Theme: Circles (did a haha funny and based it off color scheme / layout of: <a href="https://circles.csesoc.app/" target="_blank">https://circles.csesoc.app/</a>)
 
-Page located at: <a href="https://jeremyle56.github.io/profile-page/" target="_blank">https://jeremyle56.github.io/profile-page/</a>
+Page located at: 
+<a href="https://jeremyle56.github.io/profile-page/" target="_blank">https://jeremyle56.github.io/profile-page/</a>
 
-Gradient Version: <a href="https://jeremyle56.github.io/profile-page/gradient" target="_blank">https://jeremyle56.github.io/profile-page/gradient</a>
+Gradient Version: 
+<a href="https://jeremyle56.github.io/profile-page/gradient" target="_blank">https://jeremyle56.github.io/profile-page/gradient</a>
 
 Noteable notes: 
 - PAGE IS REACTIVE!!!
