@@ -103,6 +103,11 @@ main {
     transition: transform 0.25s ease-out;
 }
 
+.section_title:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+
 .section_subtitle {
     display: block;
     margin-bottom: 3rem;
