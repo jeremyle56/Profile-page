@@ -80,8 +80,27 @@ main {
     padding: 2rem 0 4rem;
 }
 
+.section_title_wrapper {
+    text-align: center;
+}
+
 .section_title {
     color: #9254de;
+    display: inline-block;
+    position: relative;
+}
+
+.section_title::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #9254de;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
 }
 
 .section_subtitle {
@@ -105,7 +124,6 @@ main {
     overflow: hidden;
     font-size: 150%;
 }
-
 
 .home h1:before, .home h1:after {
     background-color: #9254de;
