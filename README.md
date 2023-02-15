@@ -10,6 +10,7 @@ Noteable notes:
 - PAGE IS REACTIVE!!!
 - Name in top left is a link
 - Purple inline words are links
+- Hover over headings for underline
 - Hover over games for banners
 - Contact are buttons, GitHub and Linkin go to respective pages. Discord will copy to clipboard.
 - Personally, width wise: 1000px > full screen > mobile
