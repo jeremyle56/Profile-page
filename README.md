@@ -16,4 +16,4 @@ Noteable notes:
 - Personally, width wise: 1000px > full screen > mobile
 - Gradient version features linear gradient background, fixed nav bar and scroll down button
 
-<small> Orginally created for UNSW CSESoc Training Program </small>
+<sup> Orginally created for UNSW CSESoc Training Program </sup>
