@@ -15,3 +15,5 @@ Noteable notes:
 - Contact are buttons, GitHub and Linkin go to respective pages. Discord will copy to clipboard.
 - Personally, width wise: 1000px > full screen > mobile
 - Gradient version features linear gradient background, fixed nav bar and scroll down button
+
+<small> Orginally created for UNSW CSESoc Training Program </small>
